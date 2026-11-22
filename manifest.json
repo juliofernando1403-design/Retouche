@@ -1,0 +1,34 @@
+{
+  "id": "/",
+  "name": "Retouche — Studio Photo & Vidéo",
+  "short_name": "Retouche",
+  "description": "Application complète de retouche photo et vidéo avec IA Magique, filtres studio et export 4K hors-ligne.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0284C7",
+  "background_color": "#060D1E",
+  "lang": "fr",
+  "categories": ["photo", "video", "utilities"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%2338BDF8'/%3E%3Cstop offset='100%25' stop-color='%230284C7'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='96' cy='96' r='92' fill='%23060D1E'/%3E%3Ccircle cx='96' cy='96' r='84' fill='url(%23g)'/%3E%3Cpath d='M68 54h34c18 0 30 10 30 26 0 12-7 21-18 24l20 34h-19l-18-31H85v31H68V54zm17 15v24h16c9 0 14-4 14-12s-5-12-14-12H85z' fill='%23FFFFFF'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%2338BDF8'/%3E%3Cstop offset='100%25' stop-color='%230284C7'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='256' cy='256' r='246' fill='%23060D1E'/%3E%3Ccircle cx='256' cy='256' r='224' fill='url(%23g)'/%3E%3Cpath d='M181 144h91c48 0 80 27 80 69 0 32-19 56-48 64l53 91h-51l-48-83h-32v83h-45V144zm45 40v64h43c24 0 37-11 37-32s-13-32-37-32h-43z' fill='%23FFFFFF'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%2338BDF8'/%3E%3Cstop offset='100%25' stop-color='%230284C7'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='512' height='512' fill='%23060D1E'/%3E%3Ccircle cx='256' cy='256' r='176' fill='url(%23g)'/%3E%3Cpath d='M196 168h72c38 0 64 21 64 55 0 26-15 45-38 51l42 72h-41l-38-66h-25v66h-36V168zm36 32v51h34c19 0 30-9 30-25s-11-26-30-26h-34z' fill='%23FFFFFF'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
